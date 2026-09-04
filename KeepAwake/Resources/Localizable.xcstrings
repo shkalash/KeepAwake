@@ -1,0 +1,78 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "menu.scope.displayAndSystem": {
+      "comment": "Menu item selecting the policy that keeps both the display and the system awake.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep Display Awake"
+          }
+        }
+      }
+    },
+    "menu.scope.systemOnly": {
+      "comment": "Menu item selecting the policy that keeps the system awake but lets the display sleep.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep System Awake Only"
+          }
+        }
+      }
+    },
+    "menu.launchAtLogin": {
+      "comment": "Checkable menu item toggling whether the app starts automatically at login.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Launch at Login"
+          }
+        }
+      }
+    },
+    "menu.quit": {
+      "comment": "Menu item that quits the application.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quit KeepAwake"
+          }
+        }
+      }
+    },
+    "status.accessibility.awake": {
+      "comment": "Accessibility label and tooltip for the menu bar icon while sleep is prevented.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep Awake is on"
+          }
+        }
+      }
+    },
+    "status.accessibility.asleep": {
+      "comment": "Accessibility label and tooltip for the menu bar icon while the Mac may sleep normally.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep Awake is off"
+          }
+        }
+      }
+    }
+  }
+}
